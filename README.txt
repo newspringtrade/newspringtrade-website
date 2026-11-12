@@ -9,3 +9,10 @@ IMPORTANT: Do not change Namecheap DNS, nameservers, MX, SPF or DKIM records.
 Test at https://newspringtrade.github.io/newspringtrade-website/ and its legal.html and privacy.html pages. When the custom domain activates, test at https://newspringtrade.com/ .
 
 Legal note: Verify the privacy-policy hosting wording and email contact details against actual providers and business processes before relying on it as legal advice.
+
+V8 updates:
+- Header navigation: TRADE / CONTACT; Approach section remains.
+- Replaced arrow emoji with consistent SVG icons.
+- Preserved URL cleanup script for /index.html -> /.
+- Updated legal/privacy home links to ./.
+- Kept contact@newspringtrade.com and all mailto links unchanged.
